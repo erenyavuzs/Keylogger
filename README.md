@@ -39,7 +39,7 @@ To set up the Keyboard Logger on your local machine, follow these steps:
 
 1. **Run the Script:**
     ```bash
-    python keylogger.py
+    python3 keylogger.py
     ```
 
 2. **Stopping the Logger:**
