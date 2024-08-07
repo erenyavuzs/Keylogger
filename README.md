@@ -20,13 +20,13 @@ To set up the Keyboard Logger on your local machine, follow these steps:
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/keyboard-logger.git
-    cd keyboard-logger
+    git clone https://github.com/erenyavuzs/keylogger.git
+    cd keylogger
     ```
 
 2. **Set Up a Virtual Environment (Recommended):**
     ```bash
-    python -m venv venv
+    python3 -m venv venv
     source venv/bin/activate   # On Windows: venv\Scripts\activate
     ```
 
@@ -39,7 +39,7 @@ To set up the Keyboard Logger on your local machine, follow these steps:
 
 1. **Run the Script:**
     ```bash
-    python logger.py
+    python keylogger.py
     ```
 
 2. **Stopping the Logger:**
@@ -48,7 +48,7 @@ To set up the Keyboard Logger on your local machine, follow these steps:
 ## Example Log Entry
 
 The `log.csv` file will contain entries like this:
-
-2024-08-06 14:55:32.123 a
-2024-08-06 14:55:33.456 Key.space
-2024-08-06 14:55:34.789 Key.enter
+<br>
+2024-08-06 14:55:32.123 a <br>
+2024-08-06 14:55:33.456 Key.space <br>
+2024-08-06 14:55:34.789 Key.enter 
