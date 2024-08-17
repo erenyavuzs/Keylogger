@@ -49,6 +49,6 @@ To set up the Keyboard Logger on your local machine, follow these steps:
 
 The `log.csv` file will contain entries like this:
 <br>
-2024-08-06 14:55:32.123 a <br>
-2024-08-06 14:55:33.456 Key.space <br>
-2024-08-06 14:55:34.789 Key.enter 
+2024-08-06 14:55:32.123743 a <br>
+2024-08-06 14:55:33.456854 Key.space <br>
+2024-08-06 14:55:34.789643 Key.enter 
