@@ -34,6 +34,14 @@ To set up the Keyboard Logger on your local machine, follow these steps:
     ```bash
     pip install pynput
     ```
+    <br>
+    Or
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+   
+    
 
 ## Usage
 
