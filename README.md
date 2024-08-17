@@ -34,8 +34,8 @@ To set up the Keyboard Logger on your local machine, follow these steps:
     ```bash
     pip install pynput
     ```
-  **Or**, you can install all dependencies listed in `requirements.txt`:
-
+   **Or**, you can install dependencies listed in `requirements.txt`:
+   
     ```bash
     pip install -r requirements.txt
     ```
